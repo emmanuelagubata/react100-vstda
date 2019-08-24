@@ -11,6 +11,7 @@
     "test": "npm run build && mocha test/.setup.js test/*.spec.js --exit"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
     "axios": "^0.16.1",
     "bluebird": "^3.5.0",
     "chai": "^3.5.0",
